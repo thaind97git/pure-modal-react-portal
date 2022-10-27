@@ -1,0 +1,4 @@
+node_modules/
+dist/
+examples/example.min.js
+examples/example.min.js.map
